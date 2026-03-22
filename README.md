@@ -1,5 +1,5 @@
 # About Me:
-m am currently a student at Florida Polytechnic University studying to become a software developer. If you need to reach me for any reason, feel free to email me at aidan.a.hurley@gmail.com.
+I am currently a student at Florida Polytechnic University studying for a Bachelor of Science in Computer Science. If you need to reach me for any reason, feel free to email me at aidan.a.hurley@gmail.com.
 
 
 ## Socials:
